@@ -7,3 +7,4 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 Blog.create!(name: "cool blog");
+Blog.create!(name: "funny blog");
